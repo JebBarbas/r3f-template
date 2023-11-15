@@ -1,0 +1,7 @@
+* {
+    margin: 0;
+}
+
+.canvas__container {
+    height: 100vh;
+}
